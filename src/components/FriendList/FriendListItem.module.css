@@ -1,0 +1,39 @@
+.item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background-color: #fff;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  margin-bottom: 20px;
+  }
+
+  
+
+  .status__false,
+  .status__true {
+    width: 15px;
+    height: 15px;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+  
+  .status__true {
+    background-color: #1b9c26;
+  }
+
+  .status__false {
+    background-color: tomato;
+  }
+
+  .avatar {
+    padding: 15px;
+    margin-right: 20px;
+  }
+  
+  .name {
+    font-size: 20px;
+    font-weight: 700;
+  }

@@ -1,0 +1,15 @@
+
+.section {
+    padding: 100px 100px 0 100px;
+    background-color: #263038;
+}
+
+h1 {
+    color: #fff;
+}
+
+.children {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
