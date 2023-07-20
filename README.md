@@ -1,5 +1,4 @@
-# Photo Gallery
-<!-- ![](https://github.com/fehmituran/goit-js-hw-11/blob/main/src/img/photogallery.gif) -->
+# React homework template
 
 
 Photo gallery was created using pagination from Pixabay api service.
