@@ -1,7 +1,7 @@
 # React homework template
-![](https://github.com/fehmituran/goit-react-hw-01-components/blob/main/src/img/hw01-1.PNG))
-![](https://github.com/fehmituran/goit-react-hw-01-components/blob/main/src/img/hw01-2.PNG))
-![](https://github.com/fehmituran/goit-react-hw-01-components/blob/main/src/img/hw01-3.PNG))
+![](https://github.com/fehmituran/goit-react-hw-01-components/blob/main/src/img/hw01-1.PNG)
+![](https://github.com/fehmituran/goit-react-hw-01-components/blob/main/src/img/hw01-2.PNG)
+![](https://github.com/fehmituran/goit-react-hw-01-components/blob/main/src/img/hw01-3.PNG)
 
 Photo gallery was created using pagination from Pixabay api service.
 
